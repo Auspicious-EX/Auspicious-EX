@@ -12,3 +12,6 @@
 Auspicious-EX/Auspicious-EX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+[![Auspicious-EX's GitHub | Stats](https://stats.quine.sh/Auspicious-EX/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Auspicious-EX)
