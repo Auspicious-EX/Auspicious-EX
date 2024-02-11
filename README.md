@@ -15,3 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Auspicious-EX's GitHub | Stats](https://stats.quine.sh/Auspicious-EX/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Auspicious-EX)
+[![Auspicious-EX's GitHub | Languages Over Time](https://stats.quine.sh/Auspicious-EX/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Auspicious-EX)
