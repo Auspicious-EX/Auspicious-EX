@@ -1,7 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Auspicious Prajapati</h1>
 <h3 align="center">A passionate frontend developer And Web Designer from Earth</h3>
-<img align="right" alt="Coding" width="400" src="https://jmp.sh/s/AmsKpUb5uryxz3gS8Z9J">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auspicius-ex&label=Profile%20views&color=0e75b6&style=flat" alt="auspicius-ex" /> </p>
 
@@ -51,5 +50,5 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="https://stats.quine.sh/Auspicious-EX/github?theme=dark" alt="Auspicious-EX's GitHub Stats" width="400"/>
-  <img src="https://stats.quine.sh/Auspicious-EX/languages-over-time?theme=dark" alt="Auspicious-EX's Languages Over Time" width="400"/>
+  <img src="https://stats.quine.sh/Auspicious-EX/languages-over-time?theme=dark" alt="Auspicious-EX's Languages Over Time" width="800"/>
 </p>
