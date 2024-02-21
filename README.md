@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Auspicious-EX/Auspicious-EX/blob/main/A-ex.gif?raw=true)](https://)
 <h1 align="center">Hello 👋, I'm Auspicious</h1>
 <h3 align="center">A passionate frontend developer And Web Designer from Earth</h3>
-<img align="right" alt="Coding" width="330"  src="https://github.com/Auspicious-EX/Auspicious-EX/blob/main/Green%20Teal%20Geometric%20Modern%20Computer%20Programmer%20Code%20Editor%20Quotes%20Instagram%20Post.gif?raw=true">
+<img align="right" alt="Coding" width="300" style="margin: 30;" src="https://github.com/Auspicious-EX/Auspicious-EX/blob/main/Green%20Teal%20Geometric%20Modern%20Computer%20Programmer%20Code%20Editor%20Quotes%20Instagram%20Post.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auspicius-ex&label=Profile%20views&color=0e75b6&style=flat" alt="auspicius-ex" /> </p>
 
