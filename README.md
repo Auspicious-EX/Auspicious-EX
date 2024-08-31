@@ -38,15 +38,14 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Widgets:</h3>
 <p align="left">
   <img src="https://stats.quine.sh/Auspicious-EX/github?theme=dark" alt="Auspicious-EX's GitHub Stats" height="200" style="margin: 20;"/>
+  <h3 align="left">LeetCode Stats:</h3>
+  <p align="left">
+    <img src="https://leetcard.jacoblin.cool/Auspicious_EX?theme=nord" alt="Leetcode Stats" height="180" style="margin: 20;>
+  </p>
 </p>
 <p align="left">
   <img src="https://stats.quine.sh/Auspicious-EX/languages-over-time?theme=dark" alt="Auspicious-EX's Languages Over Time" height="200" style="margin: 20;"/>
   <img src="https://stats.quine.sh/Auspicious-EX/topics-over-time?theme=dark" alt="Auspicious-EX's Languages Over Time" height="200" style="margin: 20;"/>
-</p>
-
-<h3 align="left">LeetCode Stats:</h3>
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/Auspicious_EX?theme=nord" alt="Leetcode Stats">
 </p>
 
 
