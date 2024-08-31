@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Widgets:</h3>
 <p align="left">
   <img src="https://stats.quine.sh/Auspicious-EX/github?theme=dark" alt="Auspicious-EX's GitHub Stats" height="200" style="margin: 20;"/>
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/Auspicious_EX?theme=nord)
   
 </p>
 <p align="left">
