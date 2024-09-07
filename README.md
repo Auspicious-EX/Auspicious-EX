@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React , Haskell, Rust**
 
-- 🫱🏻‍🫲🏻 I’m Co-Founder And CEO At **EditX - Photo, Video , Poster , UI/UX Designing**
+- 🫱🏻‍🫲🏻 I’m Web Developer And Project Manager At **EditX - Photo, Video , Poster , UI/UX Designing**
 
 - 💬 Ask me about **Any Web designing and important needs related to Front ends.**
 
